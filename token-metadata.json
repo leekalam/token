@@ -1,5 +1,14 @@
 {
   "name": "StudentsICU",
   "symbol": "SDTICU",
-  "uri": "https://github.com/leekalam/token/blob/main/llgo.png"
+  "description": "We are exhausted . Let us rest for a while. :)",
+  "image": "https://github.com/leekalam/token/blob/main/llgo.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://github.com/leekalam/token/blob/main/llgo.png",
+        "type": "image/png"
+      }
+    ]
+  }
 }
